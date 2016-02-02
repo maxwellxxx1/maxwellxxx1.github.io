@@ -30,4 +30,4 @@ navigation: True
 
 晚安，晚安，希望有缘再相见……
 
-                                                                         X
+by X.
