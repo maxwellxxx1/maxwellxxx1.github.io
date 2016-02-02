@@ -13,7 +13,7 @@ author: 'X'
 # edit 'categories' in the front matter of every post to match this username
 nickname:  
 bio: '...'
-location: 'York, UK'
+#location: 'York, UK'
 url: 'http://www.chococolater.com'
 image: 'assets/images/casper.png'
 
