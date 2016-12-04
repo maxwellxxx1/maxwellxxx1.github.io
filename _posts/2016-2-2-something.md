@@ -2,7 +2,7 @@
 layout: post
 cover: 'assets/images/111.jpg'
 title: 既过不恋
-date:   2016-02-02 00:00:00
+date:  2016-02-02 00:00:00
 navigation: True
 ---
 
