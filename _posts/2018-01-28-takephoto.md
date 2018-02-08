@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/photo.jpeg'
+cover: 'assets/images/photo.jpg'
 title: 我们拍了个照片
 date:  2018-01-28 16:50:00
 navigation: True
